@@ -1,2 +1,2 @@
 # nfts-assets
-Archivos para los NFTs de la coleccion de AO20
+Archivos para los NFTs de la coleccion de AO Libre
